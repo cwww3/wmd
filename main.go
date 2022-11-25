@@ -1,11 +1,11 @@
 package main
 
 import (
-	"changeme/config"
-	"changeme/global"
-	"changeme/tools"
 	"embed"
 	"fmt"
+	"github.com/cwww3/wmd/config"
+	"github.com/cwww3/wmd/global"
+	"github.com/cwww3/wmd/tools"
 	"github.com/wailsapp/wails/v2"
 	"github.com/wailsapp/wails/v2/pkg/menu"
 	"github.com/wailsapp/wails/v2/pkg/menu/keys"

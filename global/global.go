@@ -1,7 +1,7 @@
 package global
 
 import (
-	"changeme/config"
+	"github.com/cwww3/wmd/config"
 	"log"
 )
 

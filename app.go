@@ -1,10 +1,10 @@
 package main
 
 import (
-	"changeme/config"
-	"changeme/global"
-	"changeme/tools"
 	"context"
+	"github.com/cwww3/wmd/config"
+	"github.com/cwww3/wmd/global"
+	"github.com/cwww3/wmd/tools"
 	"github.com/google/uuid"
 	"github.com/wailsapp/wails/v2/pkg/runtime"
 	"io/fs"

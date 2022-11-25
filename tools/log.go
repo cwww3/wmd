@@ -1,8 +1,8 @@
 package tools
 
 import (
-	"changeme/global"
 	"fmt"
+	"github.com/cwww3/wmd/global"
 )
 
 func Logf(str string, args ...any) {
